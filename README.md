@@ -28,3 +28,19 @@ Instructions on how to run your solutions. For example:
 ```bash
 cd day1
 python solution.py
+```
+
+## Contributing
+If you'd like to contribute to this repository, please read the CONTRIBUTING.md.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+Feel free to contact me if you have any questions or feedback.
+
+    GitHub: @saiyam3243
+    Email: sjain3243@gmail.com
+
+Feel free to modify the contents according to your project's specifics, such as the programming languages used, additional tools or libraries, and your contact information.
+
